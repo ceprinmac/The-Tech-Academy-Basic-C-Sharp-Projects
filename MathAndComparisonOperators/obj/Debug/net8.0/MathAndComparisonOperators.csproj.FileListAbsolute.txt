@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Basic C# Program\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\net8.0\MathAndComparisonOperators.exe
+C:\Users\user\Desktop\Basic C# Program\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\net8.0\MathAndComparisonOperators.deps.json
+C:\Users\user\Desktop\Basic C# Program\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\net8.0\MathAndComparisonOperators.runtimeconfig.json
+C:\Users\user\Desktop\Basic C# Program\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\net8.0\MathAndComparisonOperators.dll
+C:\Users\user\Desktop\Basic C# Program\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\net8.0\MathAndComparisonOperators.pdb
+C:\Users\user\Desktop\Basic C# Program\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\net8.0\MathAndComparisonOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Basic C# Program\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\net8.0\MathAndComparisonOperators.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Basic C# Program\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\net8.0\MathAndComparisonOperators.AssemblyInfo.cs
+C:\Users\user\Desktop\Basic C# Program\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\net8.0\MathAndComparisonOperators.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Basic C# Program\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\net8.0\MathAndComparisonOperators.dll
+C:\Users\user\Desktop\Basic C# Program\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\net8.0\refint\MathAndComparisonOperators.dll
+C:\Users\user\Desktop\Basic C# Program\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\net8.0\MathAndComparisonOperators.pdb
+C:\Users\user\Desktop\Basic C# Program\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\net8.0\MathAndComparisonOperators.genruntimeconfig.cache
+C:\Users\user\Desktop\Basic C# Program\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\net8.0\ref\MathAndComparisonOperators.dll
